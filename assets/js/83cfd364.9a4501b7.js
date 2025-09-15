@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkafekoding_js=self.webpackChunkkafekoding_js||[]).push([[2450],{1260:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/kafekoding-javascript-web/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

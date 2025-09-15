@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkafekoding_js=self.webpackChunkkafekoding_js||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/kafekoding-javascript-web/blog","blogTitle":"Blog","authorsListPath":"/kafekoding-javascript-web/blog/authors"}')}}]);
