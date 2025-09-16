@@ -13,21 +13,21 @@ Program adalah serangkaian instruksi atau perintah yang ditulis dengan bahasa te
 
 ### Bahasa Pemograman Tingkat Tinggi
 
-Mencetak **Hello World** menggunakan **Javascript**:
+- Mencetak **Hello World** menggunakan **Javascript**:
 
 ```jsx title="index.js"
 console.log("Hello, World!");
 ```
 
-Mencetak **Hello World** menggunakan **Python**:
+- Mencetak **Hello World** menggunakan **Python**:
 
 ```jsx title="index.py"
 print("Hello, World!");
 ```
 
-### Bahasa Pemograman Rendah
+### Bahasa Pemograman Tingkat Rendah
 
-Mencetak **Hello World** menggunakan **Assembly**:
+- Mencetak **Hello World** menggunakan **Assembly**:
 
 ```jsx title="assembly"
 section .data
